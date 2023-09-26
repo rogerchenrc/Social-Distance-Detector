@@ -1,0 +1,5 @@
+1. Install Dependencies and Libraries according to the requirements
+2. Run IntoPage.py
+(python IntroPage.py)
+3. Press the arrow button to enter main interface
+4. Analyze video first and then load it into the media play
